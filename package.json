@@ -1,6 +1,6 @@
 {
   "name": "@privageapp/react-native-webview-android",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Simple React Native Android module to use Android's WebView inside your app. (Support Build tools version change)",
   "main": "index",
   "scripts": {
